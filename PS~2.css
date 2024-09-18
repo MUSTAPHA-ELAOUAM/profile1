@@ -1,0 +1,70 @@
+body{
+    background-image:linear-gradient(to bottom, #9a72b3b8,#e2bd7990);
+}
+.di{
+    width: 450px;
+    height: 450px;
+    float:right;
+    border-radius: 50%;
+    margin-top: -26px;
+    overflow: hidden;
+    border: 2px solid;
+    padding-bottom: -20px;
+    
+}
+
+.clear{
+    clear: both;
+}
+button{
+    width: 30px;
+    height:28px ;
+    background-image: url(inin.jpg);
+    background-position: center;
+    border: 3px;
+    border-radius: 12px;
+}
+.H1{
+    font-weight:bolder;
+    font-size: 4em;
+    text-decoration:underline double ;
+}
+.H2{
+    margin-top: 30px;
+    text-align: center;
+    font-style:italic ;
+    font-family: monospace; 
+    font-size: 5em;
+    text-decoration:underline #e2bd79ac;
+    
+
+}
+dl{
+    margin: 100px 60px;
+    border: solid 2px rgba(45, 43, 43, 0.118);
+    padding:60px 90px 60px 90px;
+    display:inline-block;
+    border-radius: 120px 0;
+    box-shadow: 0 0 20px 5px #2e2d2d9f;
+    background-image:linear-gradient(to bottom, #9a72b396,#e2bd797b);
+    
+    
+    
+}
+dt{
+    margin: 30px 0 10px 0;
+    font-size:  3.3em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+dd{
+    font-size:xx-large;
+}
+a{
+    margin-left: 50%;
+    border: solid 5px rgb(192, 163, 193);
+    text-decoration: none;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    
+    
+}
